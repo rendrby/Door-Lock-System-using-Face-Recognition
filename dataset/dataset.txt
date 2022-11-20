@@ -1,0 +1,3 @@
+The photos in this dataset are omitted for privacy reasons. 
+However, there were about 10 photos taken per person.
+The photos must be taken such that the face of the person is clearly visible so that the algorithm may recognize the face. 
